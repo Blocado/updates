@@ -1,2 +1,2 @@
 # updates
-Blocado app updates
+BlockedAd app updates
