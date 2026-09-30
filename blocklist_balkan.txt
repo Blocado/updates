@@ -1,0 +1,104 @@
+# BlockedAd Balkan list: ad and tracking domains used on websites in
+# Bosnia and Herzegovina, Croatia, Serbia and Montenegro that are missing
+# from the other lists. Made and maintained by BlockedAd.
+# Blocking a domain also blocks all its subdomains.
+# Wrongly blocked address? Write to blockedad@hotmail.com and it will be removed.
+# Updated: 2026-09-30
+
+# Regional ad networks
+midas-network.com
+adocean.pl
+iprom.net
+ipromcloud.com
+contentexchange.me
+d.linker.ba
+d.linker.hr
+mediaoutcast.com
+cdn.onnetwork.tv
+cdnt.onnetwork.tv
+block-ads.orangeclickmedia.com
+procrustes.orangeclickmedia.com
+ocmtag.com
+sdk.ocmthood.com
+bisko.gjirafa.net
+ads.smn.rs
+ads.itsinbox.com
+eph-adsjutarnji.cdn.sysbee.net
+mads.preformator.com
+cdn.defractal.com
+dfl.defractal.com
+
+# Regional tracking
+icu.newsroom.bi
+sidra-analytics.exabyte.hr
+ingest.hits.rs
+go-usertrack-importer.pub.rtl-api.com
+
+# International ad networks seen on regional websites
+adxbid.info
+adxpremium.services
+aklamator.com
+adnxs.com
+openx.net
+rubiconproject.com
+smartadserver.com
+360yield.com
+2mdn.net
+a-mo.net
+wtg-ads.com
+protagcdn.com
+spadsync.com
+ittr.eskimi.com
+ittpx.eskimi.com
+ittw.eskimi.com
+sspjs.eskimi.com
+shb.richaudience.com
+sync.richaudience.com
+s.richaudience.com
+at.teads.tv
+t.pubmatic.com
+www.googletagservices.com
+ep1.adtrafficquality.google
+ep2.adtrafficquality.google
+adsdk.bing.net
+adsdk.microsoft.com
+adsdkprod.azureedge.net
+csync.smilewanted.com
+prebid.smilewanted.com
+adserv.snigelweb.com
+mp.4dex.io
+s.seedtag.com
+as.ck-ie.com
+cdn.adsquirrel.ai
+cdn.connectad.io
+cdn.insurads.com
+services.insurads.com
+cdn.membrana.media
+cdn.monadplug.com
+cdn.optmn.cloud
+cm.idealmedia.io
+delivery.adrecover.com
+dsp-service.adtarget.biz
+hb.trustedstack.com
+prebid.trustedstack.com
+id.hadron.ad.gt
+rt.marphezis.com
+rt.udmserve.net
+secure.cdn.fastclick.net
+server.smartytech.io
+bid.pleasedmad.com
+pubjelly.nxjmp.com
+pb-stats.brid.tv
+pcs.ssp.cadent.com
+ssp.hbrd.io
+ssp.wp.pl
+sync.inmobi.com
+cm-mx.advolve.io
+csync.copper6.com
+pbserver.ezoic.com
+pahtdz.tech
+pahtnf.tech
+pahtsx.tech
+pahtvs.tech
+pahtzc.tech
+www.84302764.xyz
