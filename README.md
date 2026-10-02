@@ -64,7 +64,7 @@ Google Play does not allow apps that block ads in other apps. That is why ad blo
 
 Because the app is not from Google Play, Android shows a **Play Protect** message during installation. This is normal for every app installed from outside Google Play. Tap **Scan app** and then **Install**.
 
-## Upute na našem jeziku (BS/HR/SR)
+## Upute: bosanski / hrvatski / srpski
 
 BlockedAd je blokator reklama za Android koji radi na cijelom telefonu, a ne samo u preglednicima. U svim aplikacijama, igrama i preglednicima blokira reklame, praćenje i opasne stranice, kao što su lažne stranice za prijavu i prevare.
 
