@@ -1,0 +1,43 @@
+# BlockedAd pop-up list: ad networks that open pop-up and pop-under windows or tabs.
+# Written and maintained by BlockedAd. Blocking a domain also blocks all its subdomains.
+# The app downloads the newest copy once a day from
+# https://raw.githubusercontent.com/BlockedAd/updates/main/blocklist_popups.txt
+
+exoclick.com
+exosrv.com
+exdynsrv.com
+realsrv.com
+propellerads.com
+propellerclick.com
+onclickads.net
+onclkds.com
+monetag.com
+adsterra.com
+adsterratech.com
+popcash.net
+popads.net
+popadscdn.net
+popmyads.com
+popunder.net
+clickadu.com
+clickadu.net
+hilltopads.net
+hilltopads.com
+adcash.com
+juicyads.com
+ad-maven.com
+admaven.com
+trafficstars.com
+tsyndicate.com
+trafficjunky.net
+trafficjunky.com
+clickaine.com
+evadav.com
+galaksion.com
+zeropark.com
+plugrush.com
+twinred.com
+adoperator.com
+bidvertiser.com
+rollerads.com
+richads.com
